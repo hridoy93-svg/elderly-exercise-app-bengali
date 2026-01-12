@@ -1,0 +1,17 @@
+{
+  "name": "বয়স্কদের ব্যায়াম অ্যাপ",
+  "short_name": "ব্যায়াম",
+  "description": "ঘরে বসে সহজ ব্যায়াম - পেশী শক্তিশালী করুন",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧘</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
